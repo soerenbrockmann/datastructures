@@ -30,7 +30,7 @@ Example: A linked list of integers:
 
 - **Singly Linked List**: Each node points to the next node and the last node points to `null`.
 - **Doubly Linked List**: Each node has two pointers: one pointing to the next node and one pointing to the previous node.
-- **Circular Linked List**: The last node points back to the first node, forming a circle.
+- **Circular Linked List**: Each node points to the next node and the last node points back to the first node, forming a circle.
 
 ## 4. Basic Operations on a Linked List
 
